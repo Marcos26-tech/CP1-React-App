@@ -1,0 +1,22 @@
+.logo {
+    float: right;
+    margin: 0;
+    position: static;
+    display: block;
+
+}
+
+.corpo {
+    margin-left: 15%;
+    margin-right: 30%;
+    display: flex;
+    margin-top: 0;
+    margin-right: 0;
+    padding-left: 40%;
+}
+
+.custom_logo {
+    padding: 2%;
+    width: 35%;
+    max-width: 50%;
+}

@@ -1,0 +1,25 @@
+.paragrafo {
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: 30%;
+    margin-top: 0;
+    display: block;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 24px;
+    color: hsl(0, 0%, 30%);
+    font-style: normal;
+    padding: 1px;
+}
+
+.p1 {
+    line-height: 20px;
+    padding-bottom: 10px;
+    margin-top: 2%;
+}
+
+.p2 {
+    line-height: 20px;
+    padding-top: 10px;
+    margin-bottom: 10%;
+}
