@@ -1,13 +1,13 @@
 import React from 'react';
-import Menu from '../menu/Menu';
-import autor from '../img/autor.png';
+import Navbar from '.././Navbar/Navbar';
+import autor from '../../img/autor.png';
 import './Header.css';
 
 export default () => {
 
   return(
     <>
-      <Menu/>      
+      <Navbar/>
       <div className="container">
         <div className="row">
           <main className="post_header">

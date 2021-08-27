@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Imagem.css"
-import logo from '../img/logo.svg';
+import logo from '../../img/logo.svg';
 
 export default () => {
 

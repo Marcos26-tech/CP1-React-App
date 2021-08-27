@@ -7,7 +7,7 @@ export default () => {
     <div className="menu">
       <nav className="menu_bar">
         <ul>
-          <li className="ponto"><a href="#">Nacional</a></li>
+          <li><a href="#">Nacional</a></li>
           <li><a href="#">Business</a></li>
           <li><a href="#">Internacional</a></li>
           <li><a href="#">Saúde</a></li>
