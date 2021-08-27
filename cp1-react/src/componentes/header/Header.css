@@ -8,11 +8,19 @@
 }
 
 
-.container {
+.container h1, span, img, hr{
+    margin-left: 10%;
+    margin-right: 20%;
+    display: flex;
+}
+
+.post1 {
     margin-left: 10%;
     margin-right: 24%;
     display: flex;
 }
+
+
 
 .titulo h1 {
     line-height: 46px;

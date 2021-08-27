@@ -9,7 +9,7 @@ export default () => {
     <div className="paragrafo">
         <div className="p1">
         <p>
-          Por ser uma doença nova, a <a href="https://www.who.int/pt/home"target="_blank">Covid-19</a> ainda nçao foi compreendida totalmente pela comunidade médica 
+          Por ser uma doença nova, a <a href="https://www.who.int/pt/home"target="_blank">Covid-19</a> ainda nao foi compreendida totalmente pela comunidade médica 
           global. Os conhecimentos sobre a doença estão em constante atualização, incluindo os sintomas e os impactos
           para a saúde a curto e longo prazos.
         </p>
