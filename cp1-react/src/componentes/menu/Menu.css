@@ -34,3 +34,13 @@
 .menu li a:hover:not(.active) {
   background-color: rgb(20, 20, 20);
 }
+.menu li:first-child a:after{
+    content: "";
+    width: 11px;
+    height: 11px;
+    display: inline-block;
+    background: #a81d1d;
+    border-radius: 100%;
+    vertical-align: middle;
+    margin-left: 8px;
+}

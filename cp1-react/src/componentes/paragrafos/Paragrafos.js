@@ -1,7 +1,7 @@
 import React from 'react';
 import './Paragrafos.css'
 
-const site ="https://www.paho.org/pt/documentos/atualizacao-epidemiologica-incremento-variante-delta-e-seu-potencial-impacto-na-regiao"
+const site ="https://www.cnnbrasil.com.br/saude/variante-delta-da-covid-19-entrou-no-pais-pelo-menos-27-vezes-afirma-fiocruz/"
 
 export default () => {
 
