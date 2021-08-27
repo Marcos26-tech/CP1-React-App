@@ -2,8 +2,7 @@
   padding: 0;
 }
 .menu{
-  margin-left: 5%;
-  margin-right: 11%;
+  margin-left:8%;
   display: flex;
 }
 
@@ -27,10 +26,14 @@
 .menu li a {
   display: block;
   color: white;
-  padding: 14px 16px;
+  padding: 14px 1.2vw;
   text-decoration: none;
 }
 
 .menu li a:hover:not(.active) {
   background-color: rgb(20, 20, 20);
+}
+nav{
+  display: flex;
+  justify-content: center;
 }
