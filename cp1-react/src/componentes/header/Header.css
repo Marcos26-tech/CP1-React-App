@@ -1,0 +1,56 @@
+.post_data {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    color: hsl(0, 0%, 30%);
+    font-style: normal;
+    padding: 0;
+    margin-top: 1%;
+    background-color: white;
+    border-bottom: solid 1px;
+    border-color: #E5E5E5;   
+}
+
+.autor_image{
+    margin-top: 1%;
+}
+.container h1,
+span,
+img,
+hr {
+    margin-left: 10%;
+    margin-right: 20%;
+    display: flex;
+}
+
+.post1 {
+    margin-left: 10%;
+    margin-right: 20%;
+    display: flex;
+    background-color: white;
+    border-top: solid 1px;
+    border-color: #E5E5E5;
+}
+
+
+
+.titulo h1 {
+    line-height: 46px;
+    font-size: 46px;
+    font-weight: 700;
+    color: #262626;
+    padding: 5px;
+    margin-top: 1%;
+    margin-bottom: 1%;  
+}
+
+.post1 {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    color: hsl(0, 0%, 30%);
+    font-style: normal;
+    padding-bottom: 5px;
+    padding: 5px;
+}
+
