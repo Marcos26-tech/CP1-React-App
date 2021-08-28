@@ -1,15 +1,21 @@
-
 .post_data {
     font-weight: 400;
     font-size: 15px;
     line-height: 16px;
     color: hsl(0, 0%, 30%);
     font-style: normal;
-    padding: 0;
+    padding: 12px;
+    background-color: white;
+    border-bottom: solid 1px;
+    border-color: #E5E5E5;
+    
 }
 
 
-.container h1, span, img, hr{
+.container h1,
+span,
+img,
+hr {
     margin-left: 10%;
     margin-right: 20%;
     display: flex;
@@ -17,8 +23,11 @@
 
 .post1 {
     margin-left: 10%;
-    margin-right: 23%;
+    margin-right: 20%;
     display: flex;
+    background-color: white;
+    border-top: solid 1px;
+    border-color: #E5E5E5;
 }
 
 
@@ -29,16 +38,8 @@
     font-weight: 700;
     color: #262626;
     padding: 5px;
-    margin-top: 5%;
-}
-
-/*linha */
-hr {
-    margin-bottom: 10px;
-    margin-top: 10px;
-    border: 0;
-    height: 2px;
-    background-image: linear-gradient(to right, transparent, hsl(0, 0%, 80%), transparent);
+    margin-top: 1%;
+    margin-bottom: 1%;  
 }
 
 .post1 {
@@ -50,3 +51,4 @@ hr {
     padding-bottom: 5px;
     padding: 5px;
 }
+

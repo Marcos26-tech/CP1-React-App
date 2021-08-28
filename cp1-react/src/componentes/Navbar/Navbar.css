@@ -6,7 +6,7 @@
 }
 
 .nav-menu {
-  width: 90vw;
+  width: 100vw;
   display: grid;
   grid-template-columns: repeat(11, auto);
   grid-gap: 2.1%;
@@ -17,16 +17,16 @@
 
 }
 
-.Nav-links, .nav-primeiro {
+.Nav-links,
+.nav-primeiro {
+  font-weight: bold;
   font-size: 1.1rem;
   color: white;
   text-decoration: none;
   padding: 0.2rem 0.2rem;
 }
-.Nav-links:hover:not(.active) {
-  background-color: rgb(31, 29, 29);
-}
-.nav-primeiro:after{
+
+.nav-primeiro:after {
   content: "";
   width: 11px;
   height: 11px;
@@ -37,6 +37,9 @@
   margin-left: 8px;
 }
 
-.nav-primeiro:hover:not(.active) {
-  background-color: rgb(31, 29, 29);
+.nav-primeiro {
+  margin: 10px;
+  display: inline;
+  padding: 13px 9px;
+  background: hsl(0, 0%, 16%);
 }
